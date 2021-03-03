@@ -1,5 +1,7 @@
 # https://webnautes.tistory.com/1381?category=811580
 # if you want to another python-version, select of 'ctrl+shift+p'
+#https://1d1cblog.tistory.com/
+
 import socket.py
 
 # 접속할 서버 주소입니다. 여기에서는 루프백(loopback) 인터페이스 주소 즉 localhost를 사용합니다. 
